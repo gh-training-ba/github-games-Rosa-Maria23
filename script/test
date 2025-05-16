@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #
 # Test the app - if the game loads, everything is working!
+# rosa
 
 # Create symlink to test game
 ln -s inde.html index.html
